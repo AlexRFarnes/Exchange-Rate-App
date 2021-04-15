@@ -18,9 +18,9 @@ The applications works with ExchangeRate API using the Fetch API. Practice fetch
 
 ## Screenshots
 
-![Screenshot](h)
+![Screenshot](https://user-images.githubusercontent.com/57517804/114820900-547c2280-9df2-11eb-989c-8559959ab0e8.png)
 
-[Demo]()
+[Demo](https://eager-swartz-d85383.netlify.app)
 
 ## Built With
 
