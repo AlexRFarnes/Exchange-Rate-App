@@ -1,4 +1,4 @@
-const API_KEY = '12537a488015942cdd4cf7a2';
+const API_KEY = '';
 
 const currencyElOne = document.getElementById('currency-one');
 const currencyElTwo = document.getElementById('currency-two');
